@@ -1,0 +1,50 @@
+name: randy.mclaughlin
+description: radical
+version: 0.0.1
+author: jcc08um2.hvul0age@k4v8cynl.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: randymclaughlin
+  parentArtefactID: team1764968125109
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 20:55:56'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 20:55:58'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T20:55:58.209473Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '329977291'
+  createdAt: '2025-12-05T20:55:58.209473Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
